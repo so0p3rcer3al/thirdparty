@@ -1,1 +1,0 @@
-prevcfg=srcs:src/gtest-all.cpp src/gtest-main.cpp LINK.cpp:g++ -O2 -I. -Iinclude COMPILE.cpp:g++ -O2 -I. -Iinclude -c LDLIBS:
